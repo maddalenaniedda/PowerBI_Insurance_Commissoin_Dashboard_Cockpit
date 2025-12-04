@@ -39,7 +39,7 @@ By standardizing commissions at a 30% benchmark and using Power BI to monitor va
 This page is designed to help quickly understand and test how changes in commission rates influence key financial metrics.
 How to use this tool:
  Move the What-If parameter (slider) to simulate different commission values or percentages.
- Charts and tables update instantly to show variation of commission value compared to gross and suggested commission target.
+ Charts and tables update instantly to show variation of commission value compared to gross sales and suggested commission target.
  Apply "Agency" filter to evaluate commission impact at different levels.
 
 <img width="1408" height="799" alt="image" src="https://github.com/user-attachments/assets/ef6b2793-723a-4ff9-9b9c-8ae034dd8bc6" />
